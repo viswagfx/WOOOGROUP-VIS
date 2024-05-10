@@ -153,11 +153,11 @@ const webLinks = [
     },
 
     {
-        title: 'maker website',
-        url: 'https://vjy.me',
+        title: 'My Roblox Group',
+        url: 'https://www.roblox.com/groups/3196054/Randomized-Studios#!/about',
         type: 'other',
-        icon: '/vjy.png',
-        on: false
+        icon: '/roblox.png',
+        on: true
     },
 ];
 
