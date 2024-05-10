@@ -25,11 +25,11 @@ export default function Seo({ page }) {
                             alt: `${title}`,
                         },
                     ],
-                    site_name: 'vjy.me',
+                    site_name: 'https://bento.me/vis',
                 }}
                 twitter={{
-                    handle: '@realvjy',
-                    site: 'vjy.me',
+                    handle: '@viswagfx',
+                    site: 'https://bento.me/vis',
                     cardType: 'summary_large_image',
                 }}
                 additionalMetaTags={[{
