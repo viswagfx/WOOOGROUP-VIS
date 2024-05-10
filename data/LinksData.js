@@ -159,6 +159,14 @@ const webLinks = [
         icon: '/roblox.png',
         on: true
     },
+    
+    {
+        title: 'DevForum Profile',
+        url: 'https://devforum.roblox.com/u/viswa99/',
+        type: 'other',
+        icon: '/devforum.png',
+        on: true
+    },
 ];
 
 export default webLinks;
