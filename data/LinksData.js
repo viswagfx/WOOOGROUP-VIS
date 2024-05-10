@@ -3,7 +3,7 @@ const webLinks = [
     // All social profile
     {
         title: 'Twitter',
-        url: 'https://twitter.com/realvjy',
+        url: 'https://twitter.com/viswagfx',
         type: 'social',
         icon: '/twitter.svg',
         on: true
@@ -145,11 +145,11 @@ const webLinks = [
     },
 
     {
-        title: 'link demo',
-        url: 'https://vjy.me/lnk',
+        title: 'My Roblox Account',
+        url: 'https://www.roblox.com/users/1072749554/profile',
         type: 'other',
-        icon: '/vjy.png',
-        on: false
+        icon: '/roblox.png',
+        on: true
     },
 
     {
