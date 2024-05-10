@@ -1,7 +1,7 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'Viswa',
+        name: 'viswa',
         username: 'Vis',
         url: 'https://twitter.com/viswagfx',
         titleImg: true,
