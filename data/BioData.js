@@ -9,7 +9,7 @@ const bioData = [
         nftAvatar: false,
         description: 'Hey there im viswa im 17 and I am a 3d modeller with 1 year of experience',
         descShow: true,
-        subdesc: 'WOOO',
+        subdesc: 'Check out my socials!',
         subdescShow: true,
         newProductUrl: 'https://3dicons.co',
         newProduct: false,
