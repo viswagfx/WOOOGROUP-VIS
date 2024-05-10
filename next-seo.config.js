@@ -3,7 +3,7 @@ export default {
         type: 'Vis',
         locale: 'en_IE',
         title: 'viswagfx',
-        url: 'https://previews.123rf.com/images/imagecatalogue/imagecatalogue1611/imagecatalogue161116759/66637610-test-text-rubber-seal-stamp-watermark-tag-inside-rounded-rectangular-banner-with-grunge-design-and.jpg',
+        url: 'https://raw.githubusercontent.com/viswagfx/WOOOGROUP/main/images/vis.png',
         description: 'WOOO',
         locale: 'en_EN',
         keywords: 'WOOO',
@@ -11,10 +11,10 @@ export default {
             {
                 width: 1200,
                 height: 630,
-                url: `https://previews.123rf.com/images/imagecatalogue/imagecatalogue1611/imagecatalogue161116759/66637610-test-text-rubber-seal-stamp-watermark-tag-inside-rounded-rectangular-banner-with-grunge-design-and.jpg`,
+                url: `https://raw.githubusercontent.com/viswagfx/WOOOGROUP/main/images/visbanner.png`,
             },
         ],
-        site_name: 'WOOO',
+        site_name: 'viswa',
     },
     twitter: {
         handle: '@viswagfx',
