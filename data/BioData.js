@@ -1,10 +1,10 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'viswa',
+        name: 'Viswa',
         username: 'Vis',
         url: 'https://twitter.com/viswagfx',
-        titleImg: true,
+        titleImg: false,
         avatar: '/avatar.png',
         nftAvatar: false,
         description: 'Hey there im viswa im 17 and I am a 3d modeller with 1 year of experience',
